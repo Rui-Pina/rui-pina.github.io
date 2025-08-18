@@ -22,7 +22,7 @@ repository               : "rui-pina/rui-pina.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Rui Pina"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer"
