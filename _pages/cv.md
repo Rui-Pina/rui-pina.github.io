@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master’s in Software Engineering, Instituto Superior de Engenharia do Porto, Sep 2023 – Jul 2025  
+* Bacherlor’s in Software Engineering, Instituto Superior de Engenharia do Porto, Sep 2020 – Jul 2023  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2025 – Present: Backend Developer, **Mindera**, Porto, Portugal  
+  * Spearheaded automation initiatives using Azure, implementing Python-based workflows that streamlined internal processes, achieving estimated time savings of over 40% in routine operations.  
+  * Designed and implemented a Digital Asset Management (DAM) system for structured storage, access, and automated categorisation of media assets.  
+  * Built Python scripts for automatic exporting and transformation of digital files, enhancing scalability and reducing manual intervention.  
+  * Contributed to AI-powered image classification and search features using computer vision.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2023 – Dec 2024: Backend Developer, **Mindera**, Porto, Portugal  
+  * Developed and maintained microservices on AWS, mapping daily transactions from 200+ physical stores.  
+  * Optimised financial data flows (AWS Data Lake, SAP) for tens of millions of pounds weekly revenue.  
+  * Leveraged AWS (Lambdas, SQS, DynamoDB, CloudFormation, CDK) to streamline transactional processes.  
+  * Enhanced observability across 180+ stores with SREs, reducing business impact of faulty terminals.  
+  * Migrated microservices from CloudFormation to CDK, supporting 3M+ transactions monthly without downtime.  
+  * Built a GitLab pipeline for Tanium-based deployments, improving security, compliance, and reducing deployment time by 30%.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Aug 2024 – Aug 2025: Researcher, **SoftCPS**, Porto, Portugal  
+  * Maintainer and key contributor to the official CityLearn open-source platform (530+ GitHub stars).  
+  * Designed and implemented multi-agent reinforcement learning features to improve energy optimisation simulations across building clusters, using OpenAI’s Gym interface.  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, TypeScript, Java, React, Spring Boot, Quarkus  
+* Cloud & Infrastructure: AWS, Azure, Pulumi, CDK, CloudFormation  
+* Other: AI, Computer Vision, Automation Pipelines  
+* Languages: Portuguese (native), English (fluent, C2), French (intermediate)  
+
+Awards & Certifications
+======
+* Cambridge English C2 Proficiency (Score: 200)  
+* 2nd Place, AWS Cost Saving Hackathon  
 
 Publications
 ======
@@ -61,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Open-source contributor (CityLearn)  
+* Active in automation and digital governance initiatives  
+* LinkedIn: [linkedin.com/in/rui-pina](https://www.linkedin.com/in/rui-pina)  
