@@ -25,9 +25,9 @@ author:
   avatar           : "me.jpg"
   name             : "Rui Pina"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer"
-  location         : "Porto"
-  employer         : "Mindera"
+  bio              : # "Software Engineer"
+  location         : "Porto & Luxembourg"
+  employer         : "The Fierce Community Initiative"
   uri              : # URL
   email            : "ruiriopina02@gmail.com" 
 

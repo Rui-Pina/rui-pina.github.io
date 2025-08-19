@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# The Fierce Community Initiative  
 **Reclaiming power. Restoring dignity. Rebuilding community.**
 
 We live inside a machine that profits from our dependence, erodes our communities, and tells us there is no alternative. But there is. The Fierce Community Initiative is a commitment to build a better way: food cooperatives, fair housing, local enterprises, and institutions owned by the people they serve.  
