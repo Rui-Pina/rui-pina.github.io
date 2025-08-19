@@ -2,8 +2,6 @@
 permalink: /about
 title: "The Fierce Community Initiative"
 author_profile: true
-redirect_from: 
-  - /about/
   - /about.html
 ---
 
