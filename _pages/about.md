@@ -1,32 +1,20 @@
 ---
 permalink: /
-title: "Rui Pina - Software Engineer"
+title: "The Fierce Community Initiative"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I’m **Rui Pina**, a software engineer from Porto, Portugal, originally born in Luxembourg.  
-I am passionate in going from idealism to practicism. I build reliable, scalable systems and explore new technologies while doing it.  
+# The Fierce Community Initiative  
+**Reclaiming power. Restoring dignity. Rebuilding community.**
 
-This site is a place where I share my work, projects, and professional interests. It also serves as a hub for resources, writing, and anything else I find worth sharing.  
+We live inside a machine that profits from our dependence, erodes our communities, and tells us there is no alternative. But there is. The Fierce Community Initiative is a commitment to build a better way: food cooperatives, fair housing, local enterprises, and institutions owned by the people they serve.  
 
----
+This is not a left or right project — it is a human one.  
+We refuse to enrich those who work against us. We choose to fight for families, for dignity, and for the strength of our communities.  
 
-A little about this website
-======
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com), which makes it easy to update and maintain. I’ll be using it to highlight projects, publications, and other professional milestones.  
-
-Over time, I’ll also include blog posts, notes on software engineering practices, and maybe some thoughts on technology, tools, and ideas that inspire me.  
-
----
-
-Generic stuff
-======
-- I enjoy solving complex problems and turning them into elegant solutions.  
-- I believe in lifelong learning and continuously improving my skills.  
-- Collaboration and sharing knowledge are essential values in my work.  
-- Outside of tech, I enjoy exploring culture, travel, and new perspectives.  
-
-Thanks for stopping by! Stay tuned as I continue to update this space.  
+🌱 **Our beginning:** NutRush, a cooperative food enterprise that makes nutrition affordable and keeps profits in the hands of the people.  
+🏠 **Our next step:** A mortgage service that defends families against exploitative banks.  
+💪 **Our vision:** To make it more profitable to treat people with respect than to exploit them.  
