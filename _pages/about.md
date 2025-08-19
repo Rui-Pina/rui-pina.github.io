@@ -1,8 +1,8 @@
 ---
-permalink: /about
-title: "The Fierce Community Initiative"
+layout: single
+title: "About Me"
+permalink: /about/
 author_profile: true
-  - /about.html
 ---
 
 I’m **Rui Pina**, a software engineer who believes that technology should empower communities, not just corporations. I started the Fierce Community Initiative because I realized that the same skills I use to build systems could help people **regain control over the essentials of life**: food, housing, work, and energy.  

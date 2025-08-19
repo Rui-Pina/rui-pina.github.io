@@ -1,9 +1,8 @@
 ---
-permalink: /vision
-title: "Our Vision"
+layout: single
+title: "Vision"
+permalink: /vision/
 author_profile: true
-redirect_from: 
-  - /vision.html
 ---
 
 **Inside the Belly of the Beast and the Birth of a Better Way.**
