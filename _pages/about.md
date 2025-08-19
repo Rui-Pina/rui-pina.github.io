@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "The Fierce Community Initiative"
 author_profile: true
 redirect_from: 
@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Reclaiming power. Restoring dignity. Rebuilding community.**
+I’m **Rui Pina**, a software engineer who believes that technology should empower communities, not just corporations. I started the Fierce Community Initiative because I realized that the same skills I use to build systems could help people **regain control over the essentials of life**: food, housing, work, and energy.  
 
-We live inside a machine that profits from our dependence, erodes our communities, and tells us there is no alternative. But there is. The Fierce Community Initiative is a commitment to build a better way: food cooperatives, fair housing, local enterprises, and institutions owned by the people they serve.  
+This initiative combines practical projects with shared values. From NutRush to housing programs and worker dignity initiatives, our goal is to create systems where communities **own, manage, and benefit from the resources they rely on**.  
 
-This is not a left or right project — it is a human one.  
-We refuse to enrich those who work against us. We choose to fight for families, for dignity, and for the strength of our communities.  
+Along the way, I’ve learned that building resilient communities takes more than tools—it takes trust, transparency, and a commitment to **shared principles of fairness and dignity**. This site is a space to share initiatives, reflections, and practical guides, so others can adapt what we’ve learned to their own communities.  
 
-🌱 **Our beginning:** NutRush, a cooperative food enterprise that makes nutrition affordable and keeps profits in the hands of the people.  
-🏠 **Our next step:** A mortgage service that defends families against exploitative banks.  
-💪 **Our vision:** To make it more profitable to treat people with respect than to exploit them.  
+The Fierce Community Initiative isn’t a one-person effort—it’s a call to action: **reclaim power, restore dignity, and rebuild the communities we all deserve.**
