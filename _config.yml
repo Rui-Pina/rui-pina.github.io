@@ -57,12 +57,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : # rui-pina
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # rui-pina
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -274,7 +274,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Lisbon # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
