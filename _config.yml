@@ -244,7 +244,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _initiatives
   - scope:
       path: ""
       type: initiatives
@@ -253,7 +253,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # books
+  # _books
   - scope:
       path: ""
       type: books
