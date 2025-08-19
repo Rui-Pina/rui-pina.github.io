@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /vision
 title: "Our Vision"
 author_profile: true
 redirect_from: 
