@@ -8,7 +8,7 @@ cover: "/images/the-essays-and-counsels-francis-bacon.jpg"
 author: "Francis Bacon"
 date: 2025-03-04
 category: "Philosophy & Essays"
-rating: 5
+rating: 3
 ---
 
 Francis Bacon is a cornerstone of the English Renaissance (one of my favourite cultural epochs) and marks him as the father of empiricism. He pushed for a methodical, observation-driven approach to knowledge at a time when dogma and tradition dominated. Without him, modern science and rational inquiry would have taken a very different path.

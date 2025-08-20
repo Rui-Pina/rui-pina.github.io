@@ -11,9 +11,6 @@ category: "Philosophy & Classics"
 rating: 5
 ---
 
-Francis Bacon is a cornerstone of the English Renaissance (one of my favourite cultural epochs) and marks him as the father of empiricism. He pushed for a methodical, observation-driven approach to knowledge at a time when dogma and tradition dominated. Without him, modern science and rational inquiry would have taken a very different path.
+I really loved this book, even though many dismiss it or find it unappealing, to me it’s one of Bacon’s most imaginative and profound works. It’s not just a text on science; it’s a dream of community. Discovery, learning, and collective welfare come together.
 
-**My reflections:**
-This is an important book, but not always easy or exciting to read. The ideas are more influential than the text itself. Bacon insists that we must build knowledge from experience, not authority, a principle that transformed science and society.
-
-For TFCI, the connection is clear: just as Bacon argued that we must see the world as it is, not as we are told it is, we too must observe the lived realities of our communities rather than accept the narratives imposed by institutions that profit from our dependence. Bacon’s call for new methods is our call for new structures: cooperative, empirical, and grounded in what people truly need.
+For TFCI, the resonance is powerful: Bacon imagined a society where knowledge was not hoarded but shared, where institutions existed to serve people rather than exploit them. That spirit, of building a cooperative and dignified order, mirrors our own vision. The New Atlantis reminds us that we need not only critique the world we live in, but also dare to imagine the one we want to build.
