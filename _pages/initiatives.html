@@ -11,7 +11,7 @@ author_profile: true
 {% if site.initiative_category %}
   {% for category in site.initiative_category  %}
     {% assign title_shown = false %}
-    {% for post in site.initiatives reversed %}
+    {% for post in site.initiatives %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -23,7 +23,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.initiatives reversed %}
+  {% for post in site.initiatives %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
