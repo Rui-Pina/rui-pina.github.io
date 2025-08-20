@@ -7,7 +7,7 @@ permalink: /books/2025-03-06-aeropagitica-john-milton
 cover: "/images/aeropagitica-john-milton.jpg"
 author: "John Milton"
 date: 2025-03-06
-category: "Philosophy & Rethoric"
+category: "Rethoric"
 rating: 4
 ---
 

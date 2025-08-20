@@ -7,7 +7,7 @@ permalink: /books/2025-03-12-religio-medici-thomas-browne
 cover: "/images/religio-medici-thomas-browne.jpg"
 author: "Thomas Browne"
 date: 2025-03-12
-category: "Philosophy & Religion"
+category: "Philosophy"
 rating: 4
 ---
 

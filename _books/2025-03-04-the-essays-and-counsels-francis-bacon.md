@@ -7,7 +7,7 @@ permalink: /books/2025-03-04-the-essays-and-counsels-francis-bacon
 cover: "/images/the-essays-and-counsels-francis-bacon.jpg"
 author: "Francis Bacon"
 date: 2025-03-04
-category: "Philosophy & Essays"
+category: "Philosophy"
 rating: 3
 ---
 

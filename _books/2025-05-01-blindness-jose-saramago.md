@@ -7,7 +7,7 @@ permalink: /books/2025-05-01-blindness-jose-saramago
 cover: "/images/blindness-jose-saramago.jpg"
 author: "José Saramago"
 date: 2025-05-01
-category: "Fiction & Dystopia"
+category: "Dystopia"
 rating: 1
 ---
 

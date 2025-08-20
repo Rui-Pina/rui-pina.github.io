@@ -7,7 +7,7 @@ permalink: /books/2025-03-30-lycidas-john-milton
 cover: "/images/lycidas-john-milton.jpg"
 author: "John Milton"
 date: 2025-03-30
-category: "Poetry & Classics"
+category: "Poetry"
 rating: 5
 ---
 
@@ -17,8 +17,8 @@ I spent two hours studying this relatively short poem and the time flew by. What
 
 Resources used:
 
-https://milton.host.dartmouth.edu/reading_room/lycidas/text.shtml
+[Text of the poem](https://milton.host.dartmouth.edu/reading_room/lycidas/text.shtml)
 
-https://youtu.be/8PB-IFgdL68
+[Youtube Video 1](https://youtu.be/8PB-IFgdL68)
 
-https://youtu.be/0QmqnkNYKss
+[Youtube Video 2](https://youtu.be/0QmqnkNYKss)

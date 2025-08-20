@@ -7,7 +7,7 @@ permalink: /books/2025-03-04-the-new-atlantis-francis-bacon
 cover: "/images/the-new-atlantis-francis-bacon.jpg"
 author: "Francis Bacon"
 date: 2025-03-04
-category: "Philosophy & Dystopia"
+category: "Dystopia"
 rating: 5
 ---
 

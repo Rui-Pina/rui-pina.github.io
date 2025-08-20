@@ -7,7 +7,7 @@ permalink: /books/2025-03-07-tractate-of-education-john-milton
 cover: "/images/tractate-of-education-john-milton.jpg"
 author: "John Milton"
 date: 2025-03-07
-category: "Education & Classics"
+category: "Education"
 rating: 3
 ---
 
