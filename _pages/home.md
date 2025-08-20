@@ -17,3 +17,8 @@ We refuse to enrich those who work against us. We choose to fight for families, 
 🌱 **Our beginning:** NutRush, a cooperative food enterprise that makes nutrition affordable and keeps profits in the hands of the people.  
 🏠 **Our next step:** A mortgage service that defends families against exploitative banks.  
 💪 **Our vision:** To make it more profitable to treat people with respect than to exploit them.  
+
+
+<p align="center">
+  <img src="/images/site-logo.png" />
+</p>
