@@ -32,7 +32,12 @@ Work experience
 
 * Aug 2024 – Aug 2025: Researcher, **SoftCPS**, Porto, Portugal  
   * Maintainer and key contributor to the official CityLearn open-source platform (530+ GitHub stars).  
-  * Designed and implemented multi-agent reinforcement learning features to improve energy optimisation simulations across building clusters, using OpenAI’s Gym interface.  
+  * Designed and implemented multi-agent reinforcement learning features to improve energy optimisation simulations across building clusters, using OpenAI’s Gym interface.
+
+* Feb 2023 - Jul 2023 Intern @ Mindera
+  * Devised a solution for a coding platform, where students can solve challenges proposed to them by their teachers.
+  * Implemented an AWS Stack comprising EC2, Lambda, DynamoDB, SNS, CloudFormation, CloudWatch, Cognito, among others.
+  * Developed an API in Quarkus to manage all the inherent logic involving students, teachers and challenges.
 
 Skills
 ======
@@ -48,7 +53,8 @@ Awards & Certifications
 
 Teaching
 ======
-* Taught Testing in Java and Javascript to 10 people in Mindera Code Academy
+* Delivered a workshop on Java testing with JUnit5 and Mockito for a group of 20 individuals, fostering practical skills and providing personalised feedback to each participant.
+* Led a 10-person team as Tech Lead for backend development. Managed project timelines, delegated tasks, and provided guidance to ensure high-quality deliverables.
 
   
 Service and leadership

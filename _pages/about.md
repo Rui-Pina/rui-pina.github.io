@@ -11,4 +11,4 @@ This initiative, which is my lifelong goal, combines practical projects with sha
 
 Along the way, I’ve learned that building resilient communities takes more than tools—it takes trust, transparency, and a commitment to **shared principles of fairness and dignity**. This site is a space to share initiatives, reflections, and practical guides, so others can adapt what we’ve learned to their own communities.  
 
-The Fierce Community Initiative isn’t a one-person effort—it’s a call to action: **reclaim power, restore dignity, and rebuild the communities we all deserve.**
+The Fierce Community Initiative isn’t a one-person effort, it’s a call to action: **reclaim power, restore dignity, and rebuild the communities we all deserve.**
