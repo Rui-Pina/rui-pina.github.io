@@ -8,7 +8,7 @@ cover: "/images/lycidas-john-milton.jpg"
 author: "John Milton"
 date: 2025-03-30
 category: "Poetry & Classics"
-rating: 4
+rating: 5
 ---
 
 This is a poem worth savoring—as nearly all great poetry is—line by line, unpacking its meanings and allusions. The repetition of sounds like the o’s evoke mourning, while the softer l’s lend lightness, each sound portrays the feelings of this passionate poem.
