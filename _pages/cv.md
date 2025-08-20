@@ -44,7 +44,7 @@ Skills
 * Programming: Python, TypeScript, Java, React, Spring Boot, Quarkus  
 * Cloud & Infrastructure: AWS, Azure, Pulumi, CDK, CloudFormation  
 * Other: AI, Computer Vision, Automation Pipelines  
-* Languages: Portuguese (native), English (fluent, C2), French (intermediate)  
+* Languages: Portuguese (native), English (fluent, C2), French (intermediate), German (basic)  
 
 Awards & Certifications
 ======
