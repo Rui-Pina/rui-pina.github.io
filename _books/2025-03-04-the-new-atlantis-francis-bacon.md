@@ -1,13 +1,13 @@
 ---
 layout: book
-title: "The Essays and Counsels, Civil and Moral of Francis Bacon"
+title: "The New Atlantis"
 collection: books
 type: "Book"
-permalink: /books/2025-03-04-the-essays-and-counsels-francis-bacon
-cover: "/images/the-essays-and-counsels-francis-bacon.jpg"
+permalink: /books/2025-03-04-the-new-atlantis-francis-bacon
+cover: "/images/the-new-atlantis-francis-bacon.jpg"
 author: "Francis Bacon"
 date: 2025-03-04
-category: "Philosophy & Essays"
+category: "Philosophy & Classics"
 rating: 5
 ---
 
