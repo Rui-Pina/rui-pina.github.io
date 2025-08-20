@@ -1,6 +1,6 @@
 ---
 layout: book
-title: "The New Atlantis"
+title: "Aeropagitica"
 collection: books
 type: "Book"
 permalink: /books/2025-03-06-aeropagitica-john-milton
