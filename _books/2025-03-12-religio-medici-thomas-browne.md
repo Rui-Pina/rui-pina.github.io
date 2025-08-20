@@ -3,7 +3,7 @@ layout: book
 title: "Religio Medici"
 collection: books
 type: "Book"
-permalink: /books/2025-03-07-religio-medici-thomas-browne
+permalink: /books/2025-03-12-religio-medici-thomas-browne
 cover: "/images/religio-medici-thomas-browne.jpg"
 author: "Thomas Browne"
 date: 2025-03-12
