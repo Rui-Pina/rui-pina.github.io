@@ -1,6 +1,6 @@
 ---
 layout: book
-title: "Paradise Lost"
+title: "Samson Agonistes"
 collection: books
 type: "Book"
 permalink: /books/2025-07-12-samson-agonistes-john-milton

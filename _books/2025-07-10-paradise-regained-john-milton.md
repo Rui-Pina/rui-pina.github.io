@@ -1,6 +1,6 @@
 ---
 layout: book
-title: "Paradise Lost"
+title: "Paradise Regained"
 collection: books
 type: "Book"
 permalink: /books/2025-07-10-paradise-regained-john-milton
