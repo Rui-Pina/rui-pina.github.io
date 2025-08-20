@@ -3,6 +3,8 @@ title: "The Great Transformation"
 collection: books
 type: "Book"
 permalink: /books/2025-01-01-the-great-transformation
+header:
+  teaser: "paragraph-indent.png"
 author: "Karl Polanyi"
 date: 2025-01-01
 category: "Economy & Society"

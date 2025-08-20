@@ -4,6 +4,8 @@ collection: books
 type: "Book"
 permalink: /books/2025-02-15-mutiny-of-the-soul
 author: "Charles Eisenstein"
+header:
+  teaser: "editing-talk.png"
 date: 2025-02-15
 category: "Culture & Spirit"
 ---
