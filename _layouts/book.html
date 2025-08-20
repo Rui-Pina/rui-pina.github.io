@@ -1,0 +1,28 @@
+---
+layout: single
+---
+
+<article class="book-single">
+  {% if page.cover %}
+    <img src="{{ page.cover | relative_url }}" alt="{{ page.title }} cover" class="book-cover-single">
+  {% endif %}
+
+  <h1>{{ page.title }}</h1>
+  <p><em>{{ page.author }}</em></p>
+
+  {% if page.rating %}
+    <div class="star-rating">
+      {% for i in (1..page.rating) %}
+        <span>★</span>
+      {% endfor %}
+      {% assign remainder = 5 | minus: page.rating %}
+      {% for i in (1..remainder) %}
+        <span>☆</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="book-content">
+    {{ content }}
+  </div>
+</article>

@@ -1,13 +1,14 @@
 ---
+layout: book
 title: "The Great Transformation"
 collection: books
 type: "Book"
 permalink: /books/2025-01-01-the-great-transformation
-header:
-  teaser: "paragraph-indent.png"
+cover: "/images/bio-photo.jpg"
 author: "Karl Polanyi"
 date: 2025-01-01
 category: "Economy & Society"
+rating: 5
 ---
 
 This book explores how market economies emerged and the social costs that followed.  

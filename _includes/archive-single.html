@@ -12,6 +12,38 @@
   {% assign title = post.title %}
 {% endif %}
 
+<div class="book-entry">
+  {% if post.cover %}
+    <img src="{{ post.cover | relative_url }}" alt="{{ post.title }} cover" class="book-cover">
+  {% endif %}
+
+  <div class="book-info">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <p><em>{{ post.author }}</em></p>
+
+    {% if post.rating %}
+      <div class="star-rating">
+        {% for i in (1..post.rating) %}
+          <span>★</span>
+        {% endfor %}
+        {% assign remainder = 5 | minus: post.rating %}
+        {% for i in (1..remainder) %}
+          <span>☆</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify }}
+      </p>
+    {% endif %}
+  </div>
+</div>
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}

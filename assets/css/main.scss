@@ -41,3 +41,41 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Archive cards */
+.book-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+
+.book-cover {
+  width: 120px;
+  height: auto;
+  margin-right: 1em;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.book-info {
+  flex: 1;
+}
+
+.star-rating {
+  font-size: 1.2em;
+  color: gold;
+  margin: 0.5em 0;
+}
+
+/* Single page */
+.book-single {
+  text-align: left;
+}
+
+.book-cover-single {
+  width: 200px;
+  display: block;
+  margin-bottom: 1em;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+}

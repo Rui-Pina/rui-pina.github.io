@@ -1,14 +1,16 @@
 ---
-title: "Mutiny of the Soul"
+layout: book
+title: "dqwdqwdwq"
 collection: books
 type: "Book"
-permalink: /books/2025-02-15-mutiny-of-the-soul
-author: "Charles Eisenstein"
-header:
-  teaser: "editing-talk.png"
-date: 2025-02-15
-category: "Culture & Spirit"
+permalink: /books/2025-01-01-the-great-transformation
+cover: "/images/500x300.png"
+author: "Karl Polanyi"
+date: 2025-01-01
+category: "Economy & Society"
+rating: 5
 ---
+
 
 This book challenges the modern story of separation and invites us into a new narrative of interconnection.  
 

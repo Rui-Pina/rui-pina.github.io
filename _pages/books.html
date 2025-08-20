@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- If book categories are defined -->
 {% if site.book_category %}
   {% for category in site.book_category  %}
     {% assign title_shown = false %}
@@ -19,11 +18,11 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single-book.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.books reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-book.html %}
   {% endfor %}
 {% endif %}
