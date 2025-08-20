@@ -11,7 +11,7 @@ redirect_from:
 
 We live inside a machine that profits from our dependence, erodes our communities, and tells us there is no alternative. But there is. The Fierce Community Initiative is a commitment to build a better way: food cooperatives, fair housing, local enterprises, and institutions owned by the people they serve.  
 
-This is not a left or right project — it is a human one.  
+This is not a left or right project: it is a human one.  
 We refuse to enrich those who work against us. We choose to fight for families, for dignity, and for the strength of our communities.  
 
 🌱 **Our beginning:** NutRush, a cooperative food enterprise that makes nutrition affordable and keeps profits in the hands of the people.  
