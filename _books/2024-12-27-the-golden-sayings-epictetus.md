@@ -4,7 +4,7 @@ title: "The Golden Sayings"
 collection: books
 type: "Book"
 permalink: /books/2024-12-27-the-golden-sayings-epictetus
-cover: "/images/golden-sayings-epictetus.png"
+cover: "/images/2024-12-27-the-golden-sayings-epictetus.png"
 author: "Epictetus"
 date: 2024-12-27
 category: "Philosophy"
