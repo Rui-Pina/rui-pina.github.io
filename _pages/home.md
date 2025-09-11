@@ -7,16 +7,14 @@ redirect_from:
   - /home.html
 ---
 
-**Reclaiming power. Restoring dignity. Rebuilding community.**
+**Reclaiming power. Rebuilding community.**
 
-We live inside a machine that profits from our dependence, erodes our communities, and tells us there is no alternative. But there is. The Fierce Community Initiative is a commitment to build a better way: food cooperatives, fair housing, local enterprises, and institutions owned by the people they serve.  
+We live in a system that too often places profit above people, weakens our communities, and convinces us there is no other way. But there is.  
 
-This is not a left or right project: it is a human one.  
-We refuse to enrich those who work against us. We choose to fight for families, for dignity, and for the strength of our communities.  
+The Fierce Community Initiative is our commitment to create something better: institutions owned and guided by the people they serve.  
 
-🌱 **Our beginning:** NutRush, a cooperative food enterprise that makes nutrition affordable and keeps profits in the hands of the people.  
-🏠 **Our next step:** A mortgage service that defends families against exploitative banks.  
-💪 **Our vision:** To make it more profitable to treat people with respect than to exploit them.  
+This is not a political project. It is a human one.
+We choose not to enrich those who exploit us, but to stand for families, dignity, and the strength of our communities. Together, we can build an economy rooted in fairness, resilience, and care.
 
 
 <p align="center">

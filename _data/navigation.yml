@@ -11,8 +11,8 @@ main:
   - title: "Vision"
     url: /vision/
 
-  - title: "Initiatives"
-    url: /initiatives/
+  # - title: "Initiatives"
+  #   url: /initiatives/
 
   - title: "Books"
     url: /books/  
