@@ -11,7 +11,7 @@ category: "Philosophy"
 rating: 3
 ---
 
-The Meditations is often presented as timeless wisdom for personal discipline and resilience. Its focus on inner strength, humility, and endurance under hardship is undeniably valuable. These ideas resonate with TFCI’s mission: we, too, need grounded discipline and a sense of shared duty to resist exploitation and to rebuild community life.
+The Meditations is often presented as timeless wisdom for personal discipline and resilience. Its focus on inner strength, humility, and endurance under hardship is undeniably valuable.
 
 **My reflections:**
 While the Meditations has moments of deep clarity, I found it overhyped. The endless praise around it raised expectations that it couldn’t fully meet. The book reminded me less of a revolutionary guide and more of a personal diary—important, but limited.
