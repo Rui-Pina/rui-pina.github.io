@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I’m **Rui Pina**, and I believe technology should serve creators and teams as much as it serves corporations. I started **Storra** because I realized that the tools I build for managing digital assets could also help designers and brands **take back control over their creative resources.**
+I’m **Rui Pina**.
 
 More news to come.
 

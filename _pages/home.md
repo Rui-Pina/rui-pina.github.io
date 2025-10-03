@@ -13,5 +13,5 @@ We exist to shift how people move, create, and connect.
 To question what’s possible. To design without boundaries.
 
 <p align="center">
-  <img src="/images/site-logo.png" />
+  <img src="/images/monogram-logo.png" />
 </p>
