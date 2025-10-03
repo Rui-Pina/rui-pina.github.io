@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Storra"
+title                    : "Rui Pina"
 title_separator          : "-"
 name                     : &name "Rui Pina"
 description              : &description "Decentralisation"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Software Engineer"
   location         : "Porto & Luxembourg"
-  employer         : "Storra"
+  employer         : "Mindera"
   uri              : # URL
   email            : "ruiriopina02@gmail.com" 
 

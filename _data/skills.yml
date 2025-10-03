@@ -1,0 +1,71 @@
+Handiwork:
+  - name: Carpentry
+    value: 0
+  - name: Plumbing
+    value: 0
+  - name: Electrical Work
+    value: 0
+  - name: Welding & Metalwork
+    value: 0
+  - name: Masonry
+    value: 0
+
+Mechanics:
+  - name: Car Maintenance
+    value: 0
+  - name: Engine Repair
+    value: 0
+  - name: Motorcycles
+    value: 0
+  - name: Bicycles
+    value: 5
+  - name: Tool Mastery
+    value: 0
+
+Survival:
+  - name: First Aid
+    value: 0
+  - name: Fire Building
+    value: 0
+  - name: Navigation (Map & Compass)
+    value: 40
+  - name: Hunting & Fishing
+    value: 0
+  - name: Camping & Shelter
+    value: 0
+
+Physical:
+  - name: Strength Training
+    value: 10
+  - name: Endurance / Running
+    value: 10
+  - name: Martial Arts / Self-Defense
+    value: 0
+  - name: Swimming
+    value: 0
+  - name: Discipline
+    value: 5
+
+Household:
+  - name: Cooking
+    value: 10
+  - name: Gardening
+    value: 0
+  - name: Sewing & Repairs
+    value: 5
+  - name: Wood Chopping
+    value: 0
+  - name: Home Maintenance
+    value: 0
+
+Knowledge:
+  - name: Philosophy
+    value: 25
+  - name: History
+    value: 35
+  - name: Languages
+    value: 20
+  - name: Finance
+    value: 20
+  - name: Teaching / Mentoring
+    value: 5
