@@ -48,7 +48,7 @@ author_profile: true
     <!-- Skull SVG -->
     <?xml version="1.0" standalone="no"?>
   <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-  width="887.000000pt" height="1280.000000pt" viewBox="0 0 887.000000 1280.000000"
+  width="600.000000pt" height="1000.000000pt" viewBox="0 0 887.000000 1280.000000"
   preserveAspectRatio="xMidYMid meet">
   <metadata>
   Created by potrace 1.15, written by Peter Selinger 2001-2017
@@ -386,7 +386,7 @@ author_profile: true
 </div>
 
 <div class="memento-quote">
-  <p>“Consider your end.”</p>
+  <p>“Death is the golden key that opens the palace of eternity.”</p>
   <span>— John Milton</span>
 </div>
 
@@ -472,7 +472,6 @@ author_profile: true
   border-left: 4px solid #a00;
   padding-left: 1em;
   font-style: italic;
-  background: rgba(50, 0, 0, 0.1);
 }
 .memento-quote span {
   display: block;
