@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Ti Vinhado"
+title: "Ti Vinhado - Uma Canção"
 collection: poems
 type: "Poem"
 permalink: /poems/2025-10-10-ti-vinhado
