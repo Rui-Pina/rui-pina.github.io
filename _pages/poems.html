@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Poems"
+permalink: /poems/
+---
+
+{% include base_path %}
+
+{% for poem in site.poems reversed %}
+  {% include archive-single-poem.html %}
+{% endfor %}

@@ -82,6 +82,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  poems:
+    title: 'Poems'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -217,7 +219,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  initiatives:
+  poems:
     output: true
     permalink: /:collection/:path/
   books:
@@ -244,10 +246,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _initiatives
+  # _poems
   - scope:
       path: ""
-      type: initiatives
+      type: poems
     values:
       layout: single
       author_profile: true

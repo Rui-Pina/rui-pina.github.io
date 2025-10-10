@@ -1,0 +1,10 @@
+<article class="archive-item">
+  {% if poem.cover %}
+    <a href="{{ poem.url | relative_url }}">
+      <img src="{{ poem.cover | relative_url }}" alt="{{ poem.title }}" class="archive-cover">
+    </a>
+  {% endif %}
+
+  <h2><a href="{{ poem.url | relative_url }}">{{ poem.title }}</a></h2>
+  <p class="archive-date">{{ poem.date | date: "%B %d, %Y" }}</p>
+</article>

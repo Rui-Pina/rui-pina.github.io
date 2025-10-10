@@ -43,6 +43,35 @@
 ;
 
 /* Archive cards */
+.poem {
+  max-width: 700px;
+  margin: 2rem auto;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.poem-cover {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.archive-item {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.archive-cover {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.archive-date {
+  color: #777;
+  font-size: 0.9rem;
+}
+
 .book-entry {
   display: flex;
   align-items: flex-start;
