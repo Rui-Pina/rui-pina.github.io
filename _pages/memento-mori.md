@@ -5,6 +5,45 @@ permalink: /memento-mori/
 author_profile: true
 ---
 
+  <div id="countdown" style="font-size:1.5em; text-align:center; margin-top: 2em;">
+    <p>Estimated Time Left:</p>
+    <div id="timer" style="font-weight:bold;"></div>
+  </div>
+
+  <script>
+  const birthDate = new Date("2002-07-08");
+  const expectedAge = 73;
+  const deathDate = new Date(birthDate);
+  deathDate.setFullYear(deathDate.getFullYear() + expectedAge);
+
+  // === COUNTDOWN UPDATE ===
+  function updateCountdown() {
+    const now = new Date();
+    const diff = deathDate - now;
+
+    if (diff <= 0) {
+      document.getElementById("timer").innerHTML = "💀 Time has run out.";
+      clearInterval(interval);
+      return;
+    }
+
+    const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));
+    const days = Math.floor((diff / (1000 * 60 * 60 * 24)) % 365);
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+    const seconds = Math.floor((diff / 1000) % 60);
+
+    document.getElementById("timer").innerHTML =
+      `${years} years, ${days} days, ${hours} hrs, ${minutes} min, ${seconds} sec`;
+  }
+
+  // Start the countdown
+  const interval = setInterval(updateCountdown, 1000);
+  updateCountdown();
+  </script>
+
+<br>
+
   <div style="text-align:center; margin-bottom: 2em;">
     <!-- Skull SVG -->
     <?xml version="1.0" standalone="no"?>
@@ -346,7 +385,6 @@ author_profile: true
 
 </div>
 
-
 <div class="memento-quote">
   <p>“Consider your end.”</p>
   <span>— John Milton</span>
@@ -361,7 +399,9 @@ author_profile: true
 ## Skills
 
 {% for category in site.data.skills %}
+
 ### {{ category[0] }}
+
 <div class="skill-ledger">
   {% for skill in category[1] %}
   <div class="skill" data-value="{{ skill.value }}">
@@ -376,7 +416,7 @@ author_profile: true
 
 <p align="center">  
   <img src="/images/monogram-logo.png" width="160" />  
-</p>  
+</p>
 
 <style>
 .skill-ledger {
