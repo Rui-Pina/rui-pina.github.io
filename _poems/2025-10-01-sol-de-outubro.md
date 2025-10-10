@@ -3,9 +3,9 @@ layout: poem
 title: "Sol de outubro"
 collection: poems
 type: "Poem"
-permalink: /poems/2025-10-10-sol-de-outubro
+permalink: /poems/2025-10-01-sol-de-outubro
 cover: "/images/sol-de-outubro.jpg"
-date: 2025-10-10
+date: 2025-10-01
 ---
 
 
