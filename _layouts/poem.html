@@ -7,10 +7,6 @@ layout: single
     <img src="{{ page.cover | relative_url }}" alt="{{ page.title }}" class="poem-cover">
   {% endif %}
 
-  <h1>{{ page.title }}</h1>
-
-  <div class="poem-date">{{ page.date | date: "%B %d, %Y" }}</div>
-
   <div class="poem-content">
     {{ content }}
   </div>
