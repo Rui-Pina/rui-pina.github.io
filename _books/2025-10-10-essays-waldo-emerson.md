@@ -5,7 +5,7 @@ collection: books
 type: "Book"
 permalink: /books/2025-10-10-essays-waldo-emerson
 cover: "/images/essays-waldo-emerson.jpg"
-author: "Waldo Emerson"
+author: "Ralph Waldo Emerson"
 date: 2025-10-10
 category: "Essays"
 rating: 2
