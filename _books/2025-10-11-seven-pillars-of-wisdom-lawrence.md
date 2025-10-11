@@ -11,8 +11,10 @@ category: "Memoir"
 rating: 5
 ---
 
-It's undeniable that Waldo had a profound influence on American idealism. However, I found his essays rather difficult to read. They're so densely packed with astute language and unusual phrasing that I often struggle to grasp his main point.
+ Seven Pillars of Wisdom shows how sharp and driven Lawrence was, both as a thinker and a leader.
 
-At the beginning of “First Visit to England,” Waldo writes: “I have, however, found writers superior to their books, and I cling to my first belief, that a strong head will dispose fast enough of these impediments, and give one the satisfaction of reality, the sense of having been met, and a larger horizon.”
+He truly understood the men he fought for and carried the painful truth that their dream of freedom would not come true, as they ended up under British and French control instead, and he felt himself a fraud for it.
 
-I'm sure he would have been a fascinating person to talk to, but his writing simply doesn’t resonate with me the way a conversation with him likely would have. 
+His writing pulls you straight into the desert, where you can feel the heat, the wind, "view" the Wadis, and the silence. Some moments are so vivid they stay with you, especially the haunting scene in the Turkish hospital in Damascus and the Tafas massacre.
+
+This book is a powerful and deeply human book about courage, guilt, and the heavy cost of wisdom.
