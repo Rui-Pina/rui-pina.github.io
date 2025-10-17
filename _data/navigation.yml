@@ -1,6 +1,4 @@
 main:
-  - title: "Vision"
-    url: /vision/
   - title: "Books"
     url: /books/  
   - title: "Poems"
