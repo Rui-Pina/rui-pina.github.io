@@ -3,8 +3,8 @@ layout: book
 title: "Imitation of Christ"
 collection: books
 type: "Book"
-permalink: /books/imitation-of-christ.jpg
-cover: "/images/im.jpg"
+permalink: /books/2025-11-06-imitation-of-christ
+cover: "/images/imitation-of-christ.jpg"
 author: "Thomas a Kempis"
 date: 2025-11-06
 category: "Philosophy"
