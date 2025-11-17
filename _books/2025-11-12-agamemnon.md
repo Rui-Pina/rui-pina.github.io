@@ -11,7 +11,7 @@ category: "Drama"
 rating: 4
 ---
 
-Instead of reading it, I decided to watch a play instead—the BBC’s adaptation of *Agamemnon*. Greek classics often come alive best through performance, and this one really did.
+Instead of reading it, I decided to watch a play instead, the BBC’s adaptation of *Agamemnon*. Greek classics often come alive best through performance, and this one really did.
 
 Seeing it acted out helped me understand the story in a way the text alone doesn’t quite manage. The atmosphere felt heavy and tense, and the actors made the emotions of pride, guilt, and fate very clear without overdoing it. It was easy to see why this play has lasted so long.
 
