@@ -94,33 +94,44 @@ html[data-theme="dark"] .interests strong,
 </div>
 
 <script>
-document.querySelectorAll('.filter-badge').forEach(badge => {
-  badge.addEventListener('click', function () {
+(function () {
+  function forEachNode(nodeList, callback) {
+    Array.prototype.forEach.call(nodeList, callback);
+  }
 
-    const badges = document.querySelectorAll('.filter-badge');
-    const isActive = this.classList.contains('active');
-    const filter = this.dataset.filter;
+  var badges = document.querySelectorAll('.filter-badge');
+  var books  = document.querySelectorAll('.book-item');
 
-    if (isActive) {
-      // If clicking the already active badge → clear filter
-      badges.forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.book-item').forEach(item => {
-        item.classList.remove('hidden');
-      });
-      return;
-    }
+  function showAllBooks() {
+    forEachNode(books, function (item) {
+      item.classList.remove('hidden');
+    });
+  }
 
-    // Otherwise apply new filter
-    badges.forEach(b => b.classList.remove('active'));
-    this.classList.add('active');
+  forEachNode(badges, function (badge) {
+    badge.addEventListener('click', function () {
+      var isActive = this.classList.contains('active');
+      var filter   = this.getAttribute('data-filter');
 
-    document.querySelectorAll('.book-item').forEach(item => {
-      if (item.dataset.category === filter) {
-        item.classList.remove('hidden');
-      } else {
-        item.classList.add('hidden');
+      if (isActive) {
+        // Clicking the active badge → clear filter
+        forEachNode(badges, function (b) { b.classList.remove('active'); });
+        showAllBooks();
+        return;
       }
+
+      // Apply new filter
+      forEachNode(badges, function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+
+      forEachNode(books, function (item) {
+        if (item.getAttribute('data-category') === filter) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      });
     });
   });
-});
+})();
 </script>
