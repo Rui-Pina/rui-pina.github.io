@@ -7,7 +7,7 @@ author_profile: true
 
 I’m **Rui Pina**. Going after skill, I am not goin after fictious papers with 0s attached to it.
 
-GET GOOD OR GET OUT.
+[GET GOOD OR GET OUT.](https://poetrysociety.org.uk/poems/in-my-craft-or-sullen-art/)
 
 <p align="center">
   <img src="/images/monogram-logo.png" />
