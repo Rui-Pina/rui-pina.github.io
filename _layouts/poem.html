@@ -3,10 +3,6 @@ layout: single
 ---
 
 <article class="poem">
-  {% if page.cover %}
-    <img src="{{ page.cover | relative_url }}" alt="{{ page.title }}" class="poem-cover">
-  {% endif %}
-
   <div class="poem-content">
     {{ content }}
   </div>
