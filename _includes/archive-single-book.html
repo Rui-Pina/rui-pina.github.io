@@ -1,13 +1,15 @@
-
 <div class="book-entry">
   {% if post.cover %}
-    <img src="{{ post.cover | relative_url }}" alt="{{ post.title }} cover" class="book-cover">
+    <a href="{{ post.url | relative_url }}">
+      <img src="{{ post.cover | relative_url }}" alt="{{ post.title }} cover" class="book-cover">
+    </a>
   {% endif %}
 
   <div class="book-info">
     <h2 class="archive__item-title" itemprop="headline">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
+
     <p><em>{{ post.author }}</em></p>
 
     {% if post.rating %}
