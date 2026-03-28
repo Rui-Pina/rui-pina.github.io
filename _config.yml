@@ -13,7 +13,7 @@ title                    : "Rui Pina"
 title_separator          : "-"
 name                     : &name "Rui Pina"
 description              : &description "Decentralisation"
-url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://rui-pina.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rui-pina/rui-pina.github.io"
 
