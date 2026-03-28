@@ -8,7 +8,7 @@ classes: wide
 toc: true
 toc_sticky: true
 header: false
-cover: "/images/paradise-lost-ai.jpg"
+cover: "/images/when-gold-turns-to-dust.jpg"
 ---
 
 I have a friend who is obsessed about money.
