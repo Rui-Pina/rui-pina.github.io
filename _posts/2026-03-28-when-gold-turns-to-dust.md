@@ -121,7 +121,7 @@ Ultimately from the beauty people could be making.
 
 The ultimate goal of mankind is to love:
 
-have a loving spouse, giving the best upbringing to your children as you can, helping our neighbour and creation of mankind's most spectacular.
+have a loving spouse, giving the best upbringing to your children as you can, helping our neighbour and creating mankind's most spectacular things.
 
 ---
 
@@ -129,4 +129,4 @@ Our times and ages call for these forces of nature, these titans that we read in
 
 For Caesar, for Themistocles, for Napoleon (you can argue these people did a lot of bad, which they did).
 
-But what I am meaning is that this energy that these prophet-like people had is what's needed in this day and age.
+What I mean is that the kind of energy those prophet-like figures embodied is exactly what we need today. Directed towards positive change.
