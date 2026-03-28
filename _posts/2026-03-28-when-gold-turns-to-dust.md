@@ -39,7 +39,7 @@ I ask you...
 
 who has all the power here?
 
-My friend or the money printers at central banks.
+My friend or the money printers at central banks?
 
 ---
 
