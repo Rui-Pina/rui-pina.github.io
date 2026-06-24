@@ -3,10 +3,10 @@ layout: book
 title: "The Origin of Species"
 collection: books
 type: "Book"
-permalink: /books/2024-12-10-the-origin-of-species
+permalink: /books/2026-02-22-the-origin-of-species
 cover: "/images/the-origin-of-species.jpg"
 author: "Charles Darwin"
-date: 2024-12-10
+date: 2026-02-22
 category: "Science"
 rating: 2
 ---
