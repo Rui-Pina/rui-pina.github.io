@@ -5,5 +5,7 @@ main:
     url: /poems/  
   - title: "Blog"
     url: /year-archive/
+  - title: "Politics"
+    url: /politics/
   - title: "About Me"
     url: /about/
