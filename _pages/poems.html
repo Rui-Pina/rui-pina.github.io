@@ -6,6 +6,11 @@ permalink: /poems/
 
 {% include base_path %}
 
+<article class="archive-item">
+  <h2><a href="{{ '/files/tudo-por-amor-texto.pdf' | relative_url }}" type="application/pdf">Tudo por Amor, ou o Mundo Bem Perdido</a></h2>
+  <p>John Dryden · tradução para cena · PDF</p>
+</article>
+
 {% for poem in site.poems reversed %}
   {% include archive-single-poem.html %}
 {% endfor %}
