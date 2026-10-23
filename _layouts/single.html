@@ -43,7 +43,7 @@ layout: default
         {% endif %}
 
         {% if page.cover %}
-          <img src="{{ page.cover | relative_url }}" alt="{{ page.title }}" class="page-cover">
+          <img src="{{ page.cover | relative_url }}" alt="{{ page.cover_alt | default: page.title | escape }}" class="page-cover">
         {% endif %}
               
         {% if page.collection == 'teaching' %}

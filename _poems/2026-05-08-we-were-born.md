@@ -4,7 +4,10 @@ title: "We were born"
 collection: poems
 type: "Poem"
 permalink: /poems/2026-05-08-ti-vinhado
-cover: "/images/ti-vinhado.jpg"
+cover: "/images/we-were-born.jpg"
+cover_alt: "The Milky Way above dark trees, reflected in a wilderness lake"
+cover_credit: "Neal Herbert / National Park Service, public domain"
+cover_source: "https://npgallery.nps.gov/AssetDetail/2ef91b9f-ad6d-4c60-9a57-d2386724aeb7"
 date: 2026-05-08
 ---
 
